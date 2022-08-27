@@ -24,7 +24,7 @@ src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-b
 
 
 
-  <b> "Eu creio que um dos princípios essenciais da sabedoria é o de se abster das ameaças verbais ou insultos." - Nicolau Maquiavel </b>
+ > _"Eu creio que um dos princípios essenciais da sabedoria é o de se abster das ameaças verbais ou insultos." - Nicolau Maquiavel_
 
 
 
@@ -59,31 +59,16 @@ ________________________________________________________________________________
 
 
 ____
-<details>
-<summary></summary>
 
-    
-> _Auxiliar de departamento pessoal_
-   
-> _Bacharel em Redes de Computadores_  
-   
-> _Graduanda em Biomedicina_
-   
-> _Analista de testes de software_
-   
-> _Desenvolvedor Front-End_   
-     
   
 ![Logo do git](https://blogdokelmer.wordpress.com/files/2009/06/fighomemletracaminhando.gif?w=144)
    
- > _Não se contrata ninguém para fazer flexões por você_  
+ > _"O que me preocupa não é o grito dos maus. É o silêncio dos bons" - Martin Luther King_  
  
       
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ana-analistadetesteqa-23199471/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/+5511948594968)
-[![WhatsApp Badge](https://img.shields.io/badge/QA%20-WhatsApp%20-green)](https://wa.me/qr/23G6MYXIMPMNP1)
-[![G-Mail Badge](https://img.shields.io/badge/ana@QA-D14836?style=flat&logo=gmail&logoColor=white)](mariah.anacdf@gmail.com)
-[![WhatsApp Badge](https://aleen42.github.io/badges/src/bugatti.svg)](https://wa.me/qr/23G6MYXIMPMNP1)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-silva-a43621232/)
+[![G-Mail Badge](https://img.shields.io/badge/SAMUEL+SILVA-D14836?style=flat&logo=gmail&logoColor=white)](samuelsiilva.cdf@gmail.com)
+
 
 
 
