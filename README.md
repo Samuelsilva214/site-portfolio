@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=180&section=header&text=SAMUEL+SILVA&fontSize=50&fontColor=00000&animation=twinkling&fontAlignY=40"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=&height=180&section=header&text=SAMUEL+SILVA&fontSize=50&fontColor=&animation=twinkling&fontAlignY=40"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=GRADUADA+EM+REDES+DE+COMPUTADORES;CERTIFICADA+EM+TESTES+AUTOMATIZADOS+E+DEV+FRONT+END;GRADUANDA+EM+BIOMEDICINA!+:%29)](https://git.io/typing-svg)
 
