@@ -1,6 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66eeee&height=180&section=header&text=SAMUEL+SILVA&fontSize=50&fontColor=&animation=twinkling&fontAlignY=40"/> 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=OLA+SOU+O+SAMUEL;EU+ESTOU+CURSANDO+O+PRIMEIRO+ANO+DO+ENSINO+MÉDIO;E+QUERO+ME+TORNAR+UM+VETERINÁRIO+😊)](https://git.io/typing-svg)
 
 <div  align="center"> 
 
