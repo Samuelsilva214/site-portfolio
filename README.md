@@ -28,6 +28,28 @@ src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-b
  > _"Eu creio que um dos princípios essenciais da sabedoria é o de se abster das ameaças verbais ou insultos." - Nicolau Maquiavel_
 
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <b>MARSHMALLOW 🐶
+      </td>
+      <td>
+        <b>CACHORRO 🐶 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/Bl3KlJey2brNqPQIkY/giphy.gif">
+      </td>
+      <td>
+          <img src="https://media.giphy.com/media/AQ60Mqpz7sJLK4DiOW/giphy.gif"
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ___
  
