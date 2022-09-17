@@ -20,35 +20,32 @@ src="https://img.shields.io/twitch/status/alangb12?logo=twitchsx&style=for-the-b
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/invite/6APQeg8cfz"_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/mariah.anacdf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="https://github.com/AnaTODOS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/ana-analistadetesteqa-23199471" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://api.whatsapp.com/send?phone=55011948594968&text=sua%20mensagem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://api.whatsapp.com/send?phone=55011948594968&text=sua%20mensagem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p></p>
+<p align="left"> <a href="https://discord.com/channels/@me/713080600587665509"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/mariah.anacdf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="https://github.com/AnaTODOS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/ana-analistadetesteqa-23199471" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://api.whatsapp.com/send?phone=55011948594968&text=sua%20mensagem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://api.whatsapp.com/send?phone=55011948594968&text=sua%20mensagem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p></p>
 
 
+## ⭐️ Sobre mim
 
-
- > _"Eu creio que um dos princípios essenciais da sabedoria é o de se abster das ameaças verbais ou insultos." - Nicolau Maquiavel_
-
-
-<div align="center">
+ Sou um aluno do primeiro ano do ensino médio, e pretendo me formar na área da medicina veterinária, porém não tenho experiência e atualmente estou desempregado. E agora estou em busca do meu primeiro emprego como jovem aprendiz. </b>.
+<br><br>
+<div align='center'>
   <table>
     <tr>
       <td>
-        <b>MARSHMALLOW 🐶
+        <img src="https://media3.giphy.com/media/6Fg293nQsazegcp04B/giphy.gif?cid=ecf05e471v5puql4d2nv61enic2pzjvnq0zuwthn4eikllm2&rid=giphy.gif&ct=g">
       </td>
       <td>
-        <b>CACHORRO 🐶 
+          <img src="https://media3.giphy.com/media/Ha9HlBKpqqhM5em3uc/giphy.gif?cid=ecf05e47cl40ibp8a12hf40c9nizp54icva595c993a8jg61&rid=giphy.gif&ct=g">
       </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/Bl3KlJey2brNqPQIkY/giphy.gif">
-      </td>
-      <td>
-          <img src="https://media.giphy.com/media/AQ60Mqpz7sJLK4DiOW/giphy.gif"
+       <td>
+          <img src="https://media3.giphy.com/media/96sR8wN8zojmYfwfM9/giphy.gif?cid=790b7611993a0423bee7ea30aeceab92c00782c6ea5d0634&rid=giphy.gif&ct=g">
       </td>
     </tr>
   </table>
 </div>
 
+</div><br>
+
+ > _"Eu creio que um dos princípios essenciais da sabedoria é o de se abster das ameaças verbais ou insultos." - Nicolau Maquiavel_
 
 
 ___
@@ -75,6 +72,30 @@ ____
 ## Watch my contribution graph eaten by the snake🐍
 ![snake gif](https://github.com/AnaTODOS/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
 _________________________________________________________________________________________________________________
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <b>MARSHMALLOW 🐶
+      </td>
+      <td>
+        <b>CACHORRO 🐶 
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/Bl3KlJey2brNqPQIkY/giphy.gif">
+      </td>
+      <td>
+          <img src="https://media.giphy.com/media/AQ60Mqpz7sJLK4DiOW/giphy.gif"
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AnaTODOS}/count.svg" /></p> 
@@ -122,10 +143,6 @@ ____
            <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
            <img src="https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white" />
 ___
-<details>	
-  <summary><b><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> My GitHub Stats </b></summary>
-
-___
   
   ### [Projetos Futuros!](https://github.com/AnaTODOS/)
   
@@ -141,5 +158,4 @@ ___
 <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red/" >
 <img src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon"/>      
          
-  </details> 
 
